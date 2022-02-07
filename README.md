@@ -23,4 +23,7 @@
 <h4 align="center">Design</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
+  
+  
+ # 디자인 링크 https://www.figma.com/file/wyow4KxtIvfJOKBdhQ1xqB/Multicampus-Frontend?node-id=0%3A1
 
