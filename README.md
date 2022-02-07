@@ -8,6 +8,13 @@
 - Design 기여도 : 100%
 - Figma 디자인 링크 : https://www.figma.com/file/wyow4KxtIvfJOKBdhQ1xqB/Multicampus-Frontend?node-id=0%3A1<br>
   (컨트롤키를 누르고 휠을 돌리면 확대 축소가 가능하고 휠을 클릭하면 화면을 움직일수 있습니다)
+# 기능
+- 금주의 인테리어 슬라이드 기능
+- 추천인테리어 자동 슬라이드
+- 베스트셀러 슬라이드
+- 장바구니(CRUD)
+- 회원가입(유효성검사)
+- 로그인
 
 
 
