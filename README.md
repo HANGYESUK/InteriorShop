@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=인테리어%20판매서비스&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=white)
 
 # 5인 프로젝트
-# 역할
+# 소개
 - 팀장(업무배분 및 스케쥴링), 전체 디자인, 기능구현, DB구축
-# FE기여도 
-- 80%
+- FE기여도 : 80%
 # BE기여도 
 - 70%
 # Desing 기여도
