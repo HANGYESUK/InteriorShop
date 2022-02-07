@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=인테리어%20판매서비스&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=white)
 
 # 5인 프로젝트
-# FE기여도 : 80%
-# BE기여도 : 70%
+# FE기여도 - 80%
+# BE기여도 - 70%
 # TMDB의 API를 사용해 인기 영화 데이터를 가져와 제작 했습니다
 
 
